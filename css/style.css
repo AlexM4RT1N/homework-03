@@ -42,7 +42,7 @@
 }
 .content {
 }
-.section:not(:last-of-type) {
+section:not(:last-of-type) {
     margin-bottom: 105px;
 }
 .content__article {
